@@ -1,0 +1,16 @@
+{
+    "name": "steringm/auto-bid-master-test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Grigoriy Sterin",
+            "email": "muxajibi41981@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
